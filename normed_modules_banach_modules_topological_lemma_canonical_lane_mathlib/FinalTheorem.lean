@@ -1,0 +1,9 @@
+import normed_modules_banach_modules_topological_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace normed_modules_banach_modules_topological_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end normed_modules_banach_modules_topological_lemma_canonical_lane_mathlib
+end HautevilleHouse
